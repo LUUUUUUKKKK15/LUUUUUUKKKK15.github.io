@@ -1,5 +1,6 @@
 body {
-    background-color: green;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   ul {
@@ -7,7 +8,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: grey;
   }
 
   
@@ -24,5 +25,5 @@ body {
   }
 
   li a:hover {
-    background-color: #111;
+    background-color: rgb(91, 91, 91);
   }
