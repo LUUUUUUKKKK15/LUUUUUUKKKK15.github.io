@@ -1,20 +1,20 @@
 body {
-    background-color: #00B4D8;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
+    background-color: #00B4D8; /*lichtblauwe achtergrond*/
+    font-family: Arial, Helvetica, sans-serif; /*lettertype arial*/
+    margin: 0px; /*verwijder marge rond de body*/
   }
   
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgb(62, 62, 62);
+  ul { /* Stijlen ongeordende lijst*/
+    list-style-type: none; /*het verwijderen van opsommingtekens*/
+    margin: 0; /*geen marge van de lijst*/
+    padding: 0; /*verwijder opvulling*/
+    overflow: hidden; /*overloop voorkomen*/
+    background-color: rgb(62, 62, 62); /*donkere achtergrond menu*/
   }
 
   
   li {
-    float: left;
+    float: left; /*lijstitems horizontaal*/
   }
 
   li a {
